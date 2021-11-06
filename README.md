@@ -1,16 +1,7 @@
-# shoping_app
+# shoping_app_flutter
+E-commerce app built with Flutter and Dart, In the beginning, when you open the app you will find an onboard screen it will introduce you to the app, And then you will find a login screen to be able to access the app content, the Main page has all common content on the app with the price and short description of the product.
 
-A new Flutter application.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Integrated app with API and test him using postman.
+- Implemented statemangment <bloc, Cubit>
+- Build UI/UX of the app
+- Implemented Login/ SignUp Validation
